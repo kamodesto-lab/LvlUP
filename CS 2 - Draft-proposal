@@ -17,17 +17,23 @@ PROJECT OBJECTIVES:
 
   General Objective
 
-To develop the study habits of the student of PSHS - EVC with the use of a gamified educational platform. In which this platform 
-supports lesson reviewing through entertaining interactive activities. This application also serves as a guide for the junior high students 
-into finding an efficient study habit as they venture through a unique curriculum.
+To develop and evaluate a Python-based gamified supplementary learning platform that supports lesson review through interactive quizzes, AI-assisted learning activities,
+and reward mechanisms for students of PSHS-EVC.
 
   Specific Objectives
 
-1. To identify the learning difficulties, study preferences, and preferred game-based features of students through a survey before finalizing the platform's design.
-2. To develop a functional educational platform with interactive quizzes, points, badges, and progress tracking before the end of the project development period.
-3. To provide educational activities that allow students to review selected lessons and receive immediate feedback on their quiz answers.
-4. To evaluate the platform's usability, functionality, and perceived engagement through testing with approximately 1-10% of the intended student users after development.
-5. To use feedback and test results to identify areas for improvement before finalizing the platform.
+1. To determine the appropriate learning content and platform features based on the findings of the preliminary survey on students’ learning difficulties, study preferences, and interest in game-based learning.
+2. To develop a functional prototype of LvlUP using primarily Python that allows users to:
+    a. Submit study materials in supported file formats.
+    b. Generate practice questions and simplified explanations.   
+    c. Answer interactive quizzes and receive immediate feedback.
+    d. Earn points and badges after completing learning activities.
+    e. View quiz scores, completed activities, and progress summaries.
+3. To evaluate the developed prototype through technical testing and user testing with selected students of PSHS-EVC in terms of:
+    a. Functionality;
+    b. Usability;
+    c. Perceived engagement.
+4. To improve and finalize the prototype based on the identified technical issues, evaluation results, and user feedback within the project development period.
 
 PLANNED FEATURES:
 
@@ -56,4 +62,4 @@ PLANNED INPUTS AND OUTPUTS:
 • Rewards, such as bagdes and points
 
 LOGICAL PLAN (flowchart):
-https://drive.google.com/file/d/1CraBlzuwNG9ltWn9OhwvIPwx3nQbgKvs/view?usp=drivesdk
+https://drive.google.com/file/d/11oG3dPnRLpNiQiTq4fFuOEPLEYMIBwxB/view?usp=drivesdk
